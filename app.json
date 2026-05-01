@@ -16,7 +16,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "transparent"
+        "backgroundColor": "#FFFFFF"
       },
       "package": "com.tahiniavo.plusplus"
     },
